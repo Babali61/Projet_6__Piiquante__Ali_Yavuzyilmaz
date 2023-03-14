@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 You will need to have Node and npm installed locally on your machine.
 
+## Back end Installation
+Clone this repo. From the "back" folder of the project, run npm install.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
